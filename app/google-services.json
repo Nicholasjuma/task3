@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "516167444744",
+    "project_id": "authenticating-users-a48f6",
+    "storage_bucket": "authenticating-users-a48f6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516167444744:android:a28f3c222cf7a58629e4bd",
+        "android_client_info": {
+          "package_name": "com.example.task3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzE5svVnl4_wg27OKGfqcYURGwhAizz_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
